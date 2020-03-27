@@ -1,0 +1,6 @@
+[09-Jul-2018 14:58:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 58
+[09-Jul-2018 14:58:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 62
+[09-Jul-2018 14:59:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 58
+[09-Jul-2018 14:59:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 62
+[09-Jul-2018 15:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 58
+[09-Jul-2018 15:00:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'kyle'@'localhost' (using password: YES) in /home/creatlos/admin.creativeplatform.co.za/admin/inc/database.php on line 62
